@@ -22,7 +22,7 @@
   "Employment": "Seattle Pacific University",
   "Role": "Computer Grading Assistant",
   "EmploymentText": "Wrote Bash scripts to automate the grading of computer science projects. Resolved conflict with students when issues arised. ",
-  "Skills": ["C++", " HTML", " JavaScript", " CSS", " Go", " Calculus", " Linear Algebra"],
+  "Skills": ["C++", " HTML", " JavaScript", " CSS", " Go", " Calculus", " Linear Algebra", " WSL"],
   "SkillsText": "These skills were developed through a combination of completing classwork and self study.",
   "Resume": "portfolio-resume.pdf"  
 },
