@@ -29,7 +29,7 @@
 "Project1": {
     "Title": "C++ Certified Associate Programmer",
     "Desc": "I completed the C++ Associate Programmer Certification. I was motivated to work toward this certification because I had prior experience using C++ in my classes and I wanted to understand the language deeper.",
-    "GitHubRepo": "",
+    "GitHubRepo": "https://cppinstitute.org/cpa",
     "MainImage": "portfolio-certimg.png",
     "DetailImages": ""
   },
