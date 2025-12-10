@@ -1,50 +1,50 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Fletcher Green",
   "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "Headshot": "portfolio-headshotimg.jpg",
+  "Thumbnail": "portfolio-headshotimg.jpg",
+  "AboutText": "I am a fourth-year student at Seattle Pacific University studying computer science. I chose to pursue computer science because I enjoy learning and problem solving. During my time at Seattle Pacific, I have studied multiple programming languages and applied them to unique problems. Outside of classes, I enjoy combining my programming skills with my other passions, like music. I am seeking an internship or entry level job related to software development after I graduate this coming Summer. Please reach out to me if you are interested in my skills or have any opportunities."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "EMail": "greenf@spu.edu",
+  "Phone": "(253) 981-2318",
+  "Portfolio": "https://fcgreen6.github.io/",
+  "LinkedIn": "https://www.linkedin.com/in/fletcherg-tech/",
+  "GitHub": "https://www.github.com/fcgreen6/"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "Through my education at Seattle Pacific University, I have gained the essential foundational experience necessary to thrive in computer science related professions. I have also developed essential communication skills and a sense of responsibility through work outside of college.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Major": "Major: Computer Science",
+  "Graduation": "Minor: Mathematics",
+  "EducationText": "Expected Graduation: June 2026",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Role": "Computer Grading Assistant",
+  "EmploymentText": "Wrote Bash scripts to automate the grading of computer science projects. Resolved conflict with students when issues arised. ",
+  "Skills": ["C++", " HTML", " JavaScript", " CSS", " Go", " Calculus", " Linear Algebra"],
+  "SkillsText": "These skills were developed through a combination of completing classwork and self study.",
+  "Resume": "portfolio-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "Title": "C++ Certified Associate Programmer",
+    "Desc": "I completed the C++ Associate Programmer Certification. I was motivated to work toward this certification because I had prior experience using C++ in my classes and I wanted to understand the language deeper.",
+    "GitHubRepo": "",
+    "MainImage": "portfolio-certimg.png",
+    "DetailImages": ""
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "Title": "Roguelike Deckbuilding Game",
+    "Desc": "Proposed a unique variation on the roguelike deckbuilding genre. Selected the Agile Scrum design methodology to structure ongoing team project development. ",
+    "GitHubRepo": "",
+    "MainImage": "portfolio-deckimg.png",
+    "DetailImages": ""
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "",
+    "Desc": "",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "MainImage": "",
     "DetailImages": []
   },
   "Project4": {
