@@ -230,8 +230,11 @@ project-detail a {
 #expResume {
     margin: 0 2rem 0 0;
     padding: 0;
-    float: right;
+    float: none; /* Remove float */
+    display: flex;
+    justify-content: center; /* Centers horizontally */
 }
+
 
 #pfResume {
     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
