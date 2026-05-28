@@ -34,10 +34,10 @@
     "DetailImages": ""
   },
   "Project2": {
-    "Title": "Roguelike Deckbuilding Game",
-    "Desc": "Proposed a unique variation on the roguelike deckbuilding genre. Selected the Agile Scrum design methodology to structure ongoing team project development. ",
+    "Title": "Identity Quest: A Roguelike Deckbuilding Game",
+    "Desc": "Identity Quest is a deckbuilding combat game where cards in tha player's deck represent actions in battle against computer controlled enemies. Every session in the game, the in-game character is given a different personality distribution that the player must learn to control.",
     "GitHubRepo": "",
-    "MainImage": "portfolio-deckimg.png",
+    "MainImage": "screenshot-game.png",
     "DetailImages": ""
   },
   "Project3": {
