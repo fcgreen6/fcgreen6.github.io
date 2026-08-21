@@ -1,0 +1,72 @@
+{
+    "experience": [
+        {
+            "title": "Temp",
+            "logo": "Temp",
+            "description": "Temp",
+            "start": "Temp",
+            "end": "Temp"
+        },
+        {
+            "title": "Temp",
+            "logo": "Temp",
+            "description": "Temp",
+            "start": "Temp",
+            "end": "Temp"
+        }
+    ],
+    "education:": [
+        {
+            "title": "Temp",
+            "logo": "Temp"
+        },
+        {
+            "title": "Temp",
+            "logo": "Temp"
+        }
+    ],
+    "certifications:": [
+        {
+
+        },
+        {
+
+        }
+    ],
+    "projects": [
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+    ]
+}
+
+[
+    {
+        "thing": {
+            "name": "temp",
+            "type": "temp",
+            "display": "temp"
+        },
+        "article": [
+            "TEXT: This is the thing that I did.",
+            "IMAGE: ./pathtoimage.png"
+        ],
+        "skills": ["temp", "temp"],
+        "thing-stats": {
+            "start": "July 2021",
+            "end": "September 2025"
+        }
+    },
+    {
+
+    },
+    {
+
+    }
+]
